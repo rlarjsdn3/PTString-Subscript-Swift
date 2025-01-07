@@ -1,0 +1,22 @@
+{
+  "name": "StringExtension",
+  "version": "0.1.0",
+  "summary": "A short description of StringExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rlarjsdn3/StringExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rlarjsdn3": "rlarjsdn3@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/rlarjsdn3/StringExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "StringExtension/Classes/**/*"
+}
